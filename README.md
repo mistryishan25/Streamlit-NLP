@@ -1,7 +1,7 @@
 # Streamlit-NLP
 
 ## Functional Requirements
-    1.-[x] Input box for the files upload
+    1.- [x] Input box for the files upload
         1.1 [ ] Log the file in a csv that updates range of work done, conversation ID and who did it
     2. [ ] Ability to remove some utterances
         2.1 [ ] Remove the speaker if he had only one conversation
